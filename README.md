@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andyng-gitem
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C :(
-- 💞️ I’m looking to collaborate on (cannot be determined yet)
+- 👋 Hi, I’m ---
+- 👀 I’m interested in ---
+- 🌱 I’m currently learning ---
+- 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me: Git'em Git'em
 
 <!---
